@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saketh Nellutla
 - 👀 I’m interested in building websites
 - 🌱 I’m currently learning javascript and looking forward to learn backend.
-- 💞️ I’m looking to collaborate on linkedln
+- 💞️ I’m looking to collaborate on linkedln @Saketh Nellutla
 - 📫  reach me at nellutlasaketh@gmail.com
 
 
